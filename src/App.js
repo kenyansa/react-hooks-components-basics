@@ -4,6 +4,7 @@ import Comment from "./Comment";
 
 function App() {
   return (
+    // components
     <div>
       <Article />
       <Comment />
